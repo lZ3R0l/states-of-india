@@ -1,0 +1,68 @@
+h1 {
+    color: #000;
+    padding: 5px;
+    font-style: italic;
+    font-weight: 350;
+    text-align: center;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    /*background-color: #f8f8f8;*/
+    border-radius: 10px;
+    box-shadow: 0 0 30px #000;
+    background-image: url('../images/india-map.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-attachment: fixed;
+
+}
+
+main {
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px #000000aa;
+}
+
+.container {
+    width: 30%;
+}
+
+.flex-container {
+    display: flex;
+    font-weight: 600;
+}
+
+footer {
+    background-color: #555;
+    color: #000;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+}
+
+.ni {
+    color: #f3b04b;
+}
+
+.nei {
+    color: #421ceb;
+}
+
+.ci {
+    color: #b7ca48;
+}
+
+.ei {
+    color: #018aca;
+}
+
+.wi {
+    color: #a54cb1;
+}
+
+.si {
+    color: #ff004c;
+}
